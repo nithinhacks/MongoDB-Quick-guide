@@ -219,7 +219,7 @@ ___
 <strong>$not</strong>:
     Negate the filter inside of $not<br>
 example:<br>
-`db.users.find({ name: { $not: { $eq: “Kyle” } } })`<br>
+`db.users.find({ name: { $not: { $eq: “Nithin” } } })`<br>
 Get all users with a name other than Nithin
 ___
 
